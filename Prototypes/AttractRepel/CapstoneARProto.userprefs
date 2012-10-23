@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AttractRepulProto\StaticCharge.cs">
+    <Files>
+      <File FileName="..\..\Documents\Pogo\Assets\Pogo Assets\PogoStick.cs" Line="1" Column="1" />
+      <File FileName="Assets\AttractRepulProto\ObjectRelativeMove.cs" Line="10" Column="36" />
+      <File FileName="Assets\AttractRepulProto\StaticCharge.cs" Line="112" Column="4" />
+      <File FileName="Assets\AttractRepulProto\FaceCamera.cs" Line="23" Column="2" />
+      <File FileName="Assets\AttractRepulProto\ControlStaticCharge.cs" Line="20" Column="4" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="183" Column="55" />
+      <File FileName="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
