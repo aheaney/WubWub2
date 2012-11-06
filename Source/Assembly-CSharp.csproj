@@ -44,8 +44,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Teleforce Assets\Projectile\PewPew.cs" />
+     <Compile Include="Assets\Teleforce Assets\Projectile\RotateTheBitch.cs" />
      <Compile Include="Assets\Teleforce Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Teleforce Assets\Scripts\FPController.cs" />
+     <Compile Include="Assets\Teleforce Assets\Scripts\GunController.cs" />
+     <Compile Include="Assets\Teleforce Assets\Scripts\ProjectileController.cs" />
+     <Compile Include="Assets\Teleforce Assets\Scripts\Turntable.cs" />
      <Compile Include="Assets\Weapon Scripts\example.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />

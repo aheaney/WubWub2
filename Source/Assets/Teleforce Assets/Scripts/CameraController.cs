@@ -13,7 +13,7 @@ public class CameraController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		float fPitch = Input.GetAxis("Mouse Y");
+		float fPitch = -Input.GetAxis("Mouse Y");
 		float fRotPitch = fPitch * fRotationSpeed * Time.deltaTime;
 		tCameraTransform.Rotate(fRotPitch, 0.0f, 0.0f);
 	}
